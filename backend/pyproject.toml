@@ -17,7 +17,7 @@ dependencies = [
 [dependency-groups]
 dev = [
     "pytest>=8.3",
-    "ruff>=0.6",
+    "ruff>=0.17.0",
     "mypy>=1.11",
     "httpx2>=2.13.1",
     "types-pyyaml>=6.0.12.20260906",
